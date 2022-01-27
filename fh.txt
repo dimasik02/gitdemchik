@@ -23,3 +23,5 @@ mms
 mos
 isdi
 adfg
+djj
+sks
